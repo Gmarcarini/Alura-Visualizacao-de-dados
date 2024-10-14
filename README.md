@@ -52,5 +52,5 @@
 <h2>Contato</h2>
 <ul>
   <li>GitHub: <a href="https://github.com/Gmarcarini" target="_blank">Gmarcarini</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/giovanni-marcarini-silveira" target="_blank">Giovanni Marcarini Silveira</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/giovannimarcarini" target="_blank">Giovanni Marcarini Silveira</a></li>
 </ul>
